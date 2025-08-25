@@ -6,7 +6,7 @@
 - ✨ Continuous color blocks that expand on hover  
 - 🌈 Text color adapts automatically based on background brightness  
 - 🖤 Click a color to copy it, with a custom notification and color preview  
-- 🚀 Clean, responsive and lightweight design  
+- 🚀 Clean and lightweight design  
 
 ## CSS & JS Effects Include
 - 🎨 Hover expansion with smooth transform and shadow  
